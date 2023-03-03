@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "395394046635",
+    "project_id": "salutdb-cc2bd",
+    "storage_bucket": "salutdb-cc2bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395394046635:android:a956b43b40336b02ec75ee",
+        "android_client_info": {
+          "package_name": "com.example.myfirstregistration_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395394046635-h75t9rhin01vfveh72cao83ltsbnml6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yVh7BRPrQGjBV85GyioNx50hAFeFJ_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395394046635-h75t9rhin01vfveh72cao83ltsbnml6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395394046635:android:4fa8df6ceab1c0ffec75ee",
+        "android_client_info": {
+          "package_name": "com.example.salut_firebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395394046635-lm6k7jesmjvdmmdtrjuh17t0p8t6hk1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salut_firebasefirestore",
+            "certificate_hash": "dd840c238b81ce858156383059c69fe408d7a856"
+          }
+        },
+        {
+          "client_id": "395394046635-h75t9rhin01vfveh72cao83ltsbnml6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8yVh7BRPrQGjBV85GyioNx50hAFeFJ_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395394046635-h75t9rhin01vfveh72cao83ltsbnml6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
